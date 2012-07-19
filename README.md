@@ -1,3 +1,1 @@
-This is the source code repository for the series of Wakanda Webinars.
-
-http://www.wakanda.org/media/webinars
+This is the repository for the [Wakanda Webinar series](http://www.wakanda.org/media/webinars) containing source code and additional resources.

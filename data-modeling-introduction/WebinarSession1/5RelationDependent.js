@@ -1,6 +1,7 @@
 ﻿
+var x;
 
-x = ds.Teacher.query('coursesTaught.name = Psy*');
+// x = ds.Teacher.query('coursesTaught.name = Psy*');
 
 //x = x[0];
 
@@ -9,5 +10,9 @@ x = ds.Teacher.query('coursesTaught.name = Psy*');
 
 //x = ds.Student.query('coursesAttended.name = Forensic*');
 //x = x[0].coursesAttended.name;
+
+
+x = ds.Teacher(1);
+
 
 x;
