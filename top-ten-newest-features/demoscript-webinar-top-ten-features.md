@@ -2,7 +2,7 @@
 
 Demo uses developer build 0.115372 from http://wakanda.org/downloads
 
-Created by [Juergen Fesslmeier](mailto:jf@wakanda.org), or follow me on [Twitter](http://twitter.com/chinshr)
+Created by [Juergen Fesslmeier](mailto:jf@wakanda.org), follow me on [Twitter](http://twitter.com/chinshr)
 
 ## Creating Smartphone apps using navigation views
 
