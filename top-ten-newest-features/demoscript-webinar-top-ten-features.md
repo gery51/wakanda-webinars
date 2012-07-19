@@ -308,11 +308,11 @@ See more on this in the Documentation at http://doc.wakanda.org/Wakanda-Server-A
 
 # Credits
 
-[Thibaud Arguillere](Thibaud.Arguillere@4d.com) thanks for the great EmployeesCompanies demo app that was used for the Webinar.
+[Thibaud Arguillere](mailto:) thanks for the great EmployeesCompanies demo app that was used for the Webinar.
 
-[Greg McCarvell](mailto:greg@homeslondon.com) for doing such a great job on explaining many concepts of Wakanda in his screen cast series live on the [learning center](http://www.wakanda.org/learning-center).
+[Greg McCarvell](mailto:) for doing such a great job on explaining many concepts of Wakanda in his screen cast series live on the [learning center](http://www.wakanda.org/learning-center).
 
-[David Robbins](mailto:drobbins@4d.com), for the inspirations on the material for shared workers that were derived from [Wakanda apps](http://www.wakanda.org/learning-center/best-practices) he wrote.
+[David Robbins](mailto:), for the inspirations on the material for shared workers that were derived from [Wakanda apps](http://www.wakanda.org/learning-center/best-practices) he wrote.
 
-[Bill MacKay](mailto:bmackay@4d.com), for setting up the Webinar and being such a patient sidekick during the preparation and actual Webinar session.
+[Bill MacKay](mailto:), for setting up the Webinar and being such a patient sidekick during the preparation and actual Webinar session.
 
