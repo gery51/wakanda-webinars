@@ -312,7 +312,7 @@ See more on this in the Documentation at http://doc.wakanda.org/Wakanda-Server-A
 
 [Greg McCarvell](mailto:) for doing such a great job on explaining many concepts of Wakanda in his screen cast series live on the [learning center](http://www.wakanda.org/learning-center).
 
-[David Robbins](mailto:), for the inspirations on the material for shared workers that were derived from [Wakanda apps](http://www.wakanda.org/learning-center/best-practices) he wrote.
+[David Robbins](mailto:) for the inspirations on the material for shared workers that were derived from [Wakanda apps](http://www.wakanda.org/learning-center/best-practices) he wrote.
 
-[Bill MacKay](mailto:), for setting up the Webinar and being such a patient sidekick during the preparation and actual Webinar session.
+[Bill MacKay](mailto:) for setting up the Webinar and being such a patient sidekick during the preparation and actual Webinar session.
 
