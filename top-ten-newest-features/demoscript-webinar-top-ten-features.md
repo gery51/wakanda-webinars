@@ -168,7 +168,7 @@ Here I want to show you a short example of sending email using the SMTP module.
     message.setBody('Hello world!');
     
     message.send('smtp.gmail.com', 465 , true, 
-      "wakanda.smith@gmail.com", "anda2wak");
+      "wakanda.smith@gmail.com", "...");
     message;
 
 
@@ -250,7 +250,7 @@ Imaging you want to send email from you applications asynchronously. That means 
         message.addField('To', event.data.to); 
         message.addField('Subject', event.data.subject);
         message.setBody(event.data.subject);  
-        message.send('smtp.gmail.com' , 465 , true, "wakanda.smith@gmail.com", "anda2wak");
+        message.send('smtp.gmail.com' , 465 , true, "wakanda.smith@gmail.com", "...");
         close();
       }
     }
