@@ -1,8 +1,8 @@
-# Demo Script for Wakanda 2 Webinar: Top Ten Newest Features
+# Demo Script for Wakanda Webinar: Top Ten Newest Features
 
 Demo uses developer build 0.115372 from http://wakanda.org/downloads
 
-Created by [Juergen Fesslmeier](mailto:jf@wakanda.org), follow me on [Twitter](http://twitter.com/chinshr)
+Created by [Juergen Fesslmeier](mailto:jf@wakanda.org), or follow me on [Twitter](http://twitter.com/chinshr)
 
 ## Creating Smartphone apps using navigation views
 
@@ -82,7 +82,7 @@ Execute the following code:
 
     ds.USCompany.all();
 
-Note: It shows all entities so add and add a onRestrictingQuery event handler:
+*Note:* It shows all entities so add and add a onRestrictingQuery event handler:
 
     onRestrictingQuery() {
       ds.Company.query("countryName = 'USA'");
@@ -225,7 +225,7 @@ Shared workers function across multiple threads and stay alive if you want them 
 
 
 
-8++: Sending Email from a Shared Worker
+## 8++: Sending Email from a Shared Worker
 
 Imaging you want to send email from you applications asynchronously. That means you will send the email without blocking the user experience.
 
@@ -289,11 +289,13 @@ You can make Wakanda Server execute a piece of server code right from the comman
 Create a JavaScript file in an editor and add the following lines:
 
     console.info("Hello World!");
-    console.log(process.version);
+    // console.log(process.version);
 
-Then open a console, enter the path to the server executable, as a parameter, add the script you want to execute, such as:
+Then open a console, e.g. on Mac OS X , enter the path to the server executable, as a parameter, add the script you want to execute, such as:
 
     /Applications/Wakanda\ Server.app/Contents/MacOS/Wakanda\ Server ~/work/js/hello_wakanda/hello_wakanda.js 
+
+*Note:* This line is different on Windows and Linux.
 
 You should see:
 
